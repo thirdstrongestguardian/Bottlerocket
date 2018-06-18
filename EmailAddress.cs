@@ -1,7 +1,7 @@
 using System;
 using System.Net.Mail;
 
-namespace BottleRocket
+namespace MoonStorm
 {
 	public class EmailAddress
 	{

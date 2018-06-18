@@ -1,6 +1,6 @@
 using System;
 
-namespace BottleRocket
+namespace MoonStorm
 {
 	public class InvalidEmailAddressException : Exception
 	{
