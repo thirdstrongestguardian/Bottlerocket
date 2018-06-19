@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MoonStorm
+namespace Bottlerocket
 {
 	public static class ObjectExtensions
 	{

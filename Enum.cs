@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Reflection;
 
-namespace MoonStorm
+namespace Bottlerocket
 {
 	public class EnumModelAttribute
 	: Attribute
